@@ -59,13 +59,40 @@ read.table(my_dir)
 file = "~/Documents/2020_1/Clase_Camille/Mi_nuevo_repo/Arteaga_et_al_2016/Data/new_final_26_march.vcf"
 
 
-
 library(remotes)
 library(mypackage)
 
 
 #vcf
 vcf2nexus(file, file = "vcf_in_nex.nex")
+
+
+# Clase 5/abril/2020
+
+## Preprocesamiento 
+
+* Limpieza: 
+** quita NA
+** consistentes 
+
+* Normalización: 
+** Unidades 
+
+* **ETL**Extraction, transformation and load
+** Herramientas de extracción, transformación,carga y análisis 
+*** Rapid Minner 
+*** Weka
+*** Orange
+*** Knime 
+
+
+
+
+
+
+
+
+
 
 
 
