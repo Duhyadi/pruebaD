@@ -72,18 +72,19 @@ vcf2nexus(file, file = "vcf_in_nex.nex")
 ## Preprocesamiento 
 
 * Limpieza: 
-** quita NA
-** consistentes 
+ ** quita NA
+ ** consistentes 
 
 * Normalización: 
-** Unidades 
+ ** Unidades 
 
 * **ETL**Extraction, transformation and load
-** Herramientas de extracción, transformación,carga y análisis 
-*** Rapid Minner 
-*** Weka
-*** Orange
-*** Knime 
+ ** Herramientas de extracción, transformación,carga y análisis 
+  *** Rapid Minner 
+  *** Weka
+  *** Orange
+  *** Knime 
+  *** ETL en R **buscar** 
 
 
 
